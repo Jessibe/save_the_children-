@@ -1,4 +1,6 @@
-![fireshot capture 7 - save2save i gracias - https___andreagurod wixsite com_save2save_gracias](https://user-images.githubusercontent.com/32858124/38583785-b841d030-3cd9-11e8-90ff-1eaba79a7c8a.png)
+
+![stc](https://user-images.githubusercontent.com/32858124/38680138-31a5e716-3e2b-11e8-82cb-7486b1ded94b.png)
+
 
 * **Especialidad:** UX Designer
 * **Sprint 05** 
@@ -6,11 +8,12 @@
 * **Mentor:** Camilo Salazar Paris y Karla Nava M.
 * **Team:** 
 
-    - Brenda Milián **Product Owner**
+    - Brenda Milián     **Product Owner**
+    - Joali Gamboa      **UX Research**
+    - Karina Becerra    **UX Research**
+    - Nancy Ortega      **UX Research**
     - Viridiana Montoya **UX Designer**
-    - Andrea Gutierrez **UX Designer**
-    - Karina Becerra **UX Research**
-    - Nancy Ortega **UX Research** 
+    - Andrea Gutierrez  **UX Designer** 
 
 ![Save_The_Children Logo](assets/images/sta-new-logo.png)
 
