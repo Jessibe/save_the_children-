@@ -1,4 +1,5 @@
-Proyecto Save The Children. Se desarrolló la propuesta de una landing page para la optimización de la oficial y así generar más conversiones de los usuarios visitantes a donadores.
+** Proyecto Save The Children**
+Se desarrolló la propuesta de una landing page para la optimización de la oficial y así generar más conversiones de los usuarios visitantes a donadores.
 
 ![stc](https://user-images.githubusercontent.com/32858124/38680138-31a5e716-3e2b-11e8-82cb-7486b1ded94b.png)
 
