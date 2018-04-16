@@ -1,4 +1,4 @@
-# Save The Children**
+# Save The Children
 ## Elaborado para Laboratoria [Joali Gamboa](http://www.laboratoria.la/)
 Se desarrolló la propuesta de una landing page para la optimización de la oficial y así generar más conversiones de los usuarios visitantes a donadores.
 
